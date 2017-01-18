@@ -2,7 +2,7 @@
 
 ## Files Included
 1. run_analysis.R
-### Explanation of Analysis
+## Explanation of Analysis
 1. Load training and test data and then merge the two into one data set
 2. Determine the mean and standard deviation for each variable
 3. Name the activities
